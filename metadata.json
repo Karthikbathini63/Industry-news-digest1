@@ -1,0 +1,6 @@
+{
+  "name": "Industry News Digest Reader",
+  "description": "Professional intelligence workspace to discover, organize, search, analyze, and generate AI-powered multi-source digests from industry news with exportable reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

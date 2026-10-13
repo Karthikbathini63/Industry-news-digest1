@@ -1,0 +1,995 @@
+{
+  "articles": [
+    {
+      "headline": "Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p",
+      "source": "Hacker News",
+      "canonicalUrl": "https://github.com/SaarthurR/atticus-mac",
+      "publicationDate": "2026-10-12T00:15:12.000Z",
+      "category": "Technology",
+      "tags": [],
+      "shortDescription": "Comments",
+      "fullText": "Comments",
+      "isRead": false,
+      "isSaved": false,
+      "isSample": false,
+      "id": "9454548e-9349-4356-90ca-51cf819569ef",
+      "createdAt": "2026-10-13T06:46:09.345Z",
+      "updatedAt": "2026-10-13T06:46:09.345Z"
+    },
+    {
+      "headline": "A look at OpenAI’s math that’s claimed computes faster Fourier transforms",
+      "source": "Hacker News",
+      "canonicalUrl": "https://www.argmin.net/p/faster-fourier-transforms",
+      "publicationDate": "2026-10-13T02:46:43.000Z",
+      "category": "Technology",
+      "tags": [],
+      "shortDescription": "Comments",
+      "fullText": "Comments",
+      "isRead": false,
+      "isSaved": false,
+      "isSample": false,
+      "id": "3708516d-2d49-481d-bddf-4bf35aaa5e94",
+      "createdAt": "2026-10-13T06:46:09.345Z",
+      "updatedAt": "2026-10-13T06:46:09.345Z"
+    },
+    {
+      "headline": "Blood cells from 80-year-old donor become stem cells with molecular age under 20",
+      "source": "Hacker News",
+      "canonicalUrl": "https://doi.org/10.1111/acel.70751",
+      "publicationDate": "2026-10-12T23:34:22.000Z",
+      "category": "Technology",
+      "tags": [],
+      "shortDescription": "Comments",
+      "fullText": "Comments",
+      "isRead": false,
+      "isSaved": false,
+      "isSample": false,
+      "id": "eb4adbd7-ed8a-4245-822d-a48aa653113f",
+      "createdAt": "2026-10-13T06:46:09.344Z",
+      "updatedAt": "2026-10-13T06:46:09.344Z"
+    },
+    {
+      "headline": "Muse Wonder",
+      "source": "Hacker News",
+      "canonicalUrl": "https://research.meta.ai/blog/muse-wonder",
+      "publicationDate": "2026-10-12T16:48:01.000Z",
+      "category": "Technology",
+      "tags": [],
+      "shortDescription": "Comments",
+      "fullText": "Comments",
+      "isRead": false,
+      "isSaved": false,
+      "isSample": false,
+      "id": "7295fc37-70bf-43c0-96d9-268513de8220",
+      "createdAt": "2026-10-13T06:46:09.344Z",
+      "updatedAt": "2026-10-13T06:46:09.344Z"
+    },
+    {
+      "headline": "Show HN: Brickbrag – A multiplayer brick-building world in the browser",
+      "source": "Hacker News",
+      "canonicalUrl": "https://brickbrag.com/",
+      "publicationDate": "2026-10-12T21:03:36.000Z",
+      "category": "Technology",
+      "tags": [],
+      "shortDescription": "Comments",
+      "fullText": "Comments",
+      "isRead": false,
+      "isSaved": false,
+      "isSample": false,
+      "id": "4de8b309-1693-4157-bc87-26cd14ec3ccc",
+      "createdAt": "2026-10-13T06:46:09.343Z",
+      "updatedAt": "2026-10-13T06:46:09.343Z"
+    },
+    {
+      "headline": "The Making Of Super Mario 64 – full Giles Goddard interview (2001)",
+      "source": "Hacker News",
+      "canonicalUrl": "https://pixelatron.com/blog/the-making-of-super-mario-64-full-giles-goddard-interview-ngc/",
+      "publicationDate": "2026-10-10T19:28:41.000Z",
+      "category": "Technology",
+      "tags": [],
+      "shortDescription": "Comments",
+      "fullText": "Comments",
+      "isRead": false,
+      "isSaved": false,
+      "isSample": false,
+      "id": "d1eb5bd9-aa2b-481d-9f69-96c19b0e3bd8",
+      "createdAt": "2026-10-13T06:46:09.343Z",
+      "updatedAt": "2026-10-13T06:46:09.343Z"
+    },
+    {
+      "headline": "Codex CLI installs a persistent, self-updating background daemon by default",
+      "source": "Hacker News",
+      "canonicalUrl": "https://github.com/openai/codex/issues/48195",
+      "publicationDate": "2026-10-12T18:29:04.000Z",
+      "category": "Technology",
+      "tags": [],
+      "shortDescription": "Comments",
+      "fullText": "Comments",
+      "isRead": false,
+      "isSaved": false,
+      "isSample": false,
+      "id": "64f8ca13-078b-4b3d-87de-d5cedaf0f2fa",
+      "createdAt": "2026-10-13T06:46:09.343Z",
+      "updatedAt": "2026-10-13T06:46:09.343Z"
+    },
+    {
+      "headline": "Kevin Kelly&#x27;s 2016 AI Predictions, 10 Years Later",
+      "source": "Hacker News",
+      "canonicalUrl": "https://taylor.town/kk-ai-2026",
+      "publicationDate": "2026-10-12T15:16:45.000Z",
+      "category": "Technology",
+      "tags": [],
+      "shortDescription": "Comments",
+      "fullText": "Comments",
+      "isRead": false,
+      "isSaved": false,
+      "isSample": false,
+      "id": "537045f3-bb48-4649-bdb8-a759e02db5a4",
+      "createdAt": "2026-10-13T06:46:09.342Z",
+      "updatedAt": "2026-10-13T06:46:09.342Z"
+    },
+    {
+      "headline": "Show HN: An experimental pattern-first DAW that supports MCP",
+      "source": "Hacker News",
+      "canonicalUrl": "https://github.com/andrewfader/blokkily",
+      "publicationDate": "2026-10-12T23:21:12.000Z",
+      "category": "Technology",
+      "tags": [],
+      "shortDescription": "Comments",
+      "fullText": "Comments",
+      "isRead": false,
+      "isSaved": false,
+      "isSample": false,
+      "id": "a1a98acb-eb3b-4023-b252-9bdbaab22866",
+      "createdAt": "2026-10-13T06:46:09.342Z",
+      "updatedAt": "2026-10-13T06:46:09.342Z"
+    },
+    {
+      "headline": "Secret of Orange Cats Revealed After 60-Year Search",
+      "source": "Hacker News",
+      "canonicalUrl": "https://www.sciencealert.com/secret-of-orange-cats-finally-revealed-after-60-year-search",
+      "publicationDate": "2026-10-10T22:10:57.000Z",
+      "category": "Technology",
+      "tags": [],
+      "shortDescription": "Comments",
+      "fullText": "Comments",
+      "isRead": false,
+      "isSaved": false,
+      "isSample": false,
+      "id": "b61201d4-1759-4c6b-bbfc-33d1309d5b72",
+      "createdAt": "2026-10-13T06:46:09.342Z",
+      "updatedAt": "2026-10-13T06:46:09.342Z"
+    },
+    {
+      "headline": "Solar panels that plug into your wall",
+      "source": "Hacker News",
+      "canonicalUrl": "https://www.nationalgeographic.com/environment/article/balcony-plug-in-solar-panels-renewable-energy",
+      "publicationDate": "2026-10-12T14:19:04.000Z",
+      "category": "Technology",
+      "tags": [],
+      "shortDescription": "Comments",
+      "fullText": "Comments",
+      "isRead": false,
+      "isSaved": false,
+      "isSample": false,
+      "id": "8702b549-7244-4b3e-a9b0-780086ce3224",
+      "createdAt": "2026-10-13T06:46:09.341Z",
+      "updatedAt": "2026-10-13T06:46:09.341Z"
+    },
+    {
+      "headline": "Show HN: SolidCraft – Open-Source Parametric CAD in Rust (With MCP Support)",
+      "source": "Hacker News",
+      "canonicalUrl": "https://github.com/bherbruck/solidcraft",
+      "publicationDate": "2026-10-13T00:11:04.000Z",
+      "category": "Technology",
+      "tags": [],
+      "shortDescription": "Comments",
+      "fullText": "Comments",
+      "isRead": false,
+      "isSaved": false,
+      "isSample": false,
+      "id": "2209314a-2561-437d-9c07-b7a936947ba2",
+      "createdAt": "2026-10-13T06:46:09.341Z",
+      "updatedAt": "2026-10-13T06:46:09.341Z"
+    },
+    {
+      "headline": "Writing a Demoscene Intro for the ZX Spectrum",
+      "source": "Hacker News",
+      "canonicalUrl": "https://www.markround.com/blog/2026/zx-spectrum-intro",
+      "publicationDate": "2026-10-12T19:40:00.000Z",
+      "category": "Technology",
+      "tags": [],
+      "shortDescription": "Comments",
+      "fullText": "Comments",
+      "isRead": false,
+      "isSaved": false,
+      "isSample": false,
+      "id": "0772ebd9-d969-4fc2-9b03-525ea92e394f",
+      "createdAt": "2026-10-13T06:46:09.340Z",
+      "updatedAt": "2026-10-13T06:46:09.340Z"
+    },
+    {
+      "headline": "Phreak.ing – Internet Phone Switch",
+      "source": "Hacker News",
+      "canonicalUrl": "https://phreak.ing/",
+      "publicationDate": "2026-10-12T21:39:32.000Z",
+      "category": "Technology",
+      "tags": [],
+      "shortDescription": "Comments",
+      "fullText": "Comments",
+      "isRead": false,
+      "isSaved": false,
+      "isSample": false,
+      "id": "b30473b5-1a0a-44d6-8cd4-d3aa9dad4a1f",
+      "createdAt": "2026-10-13T06:46:09.339Z",
+      "updatedAt": "2026-10-13T06:46:09.339Z"
+    },
+    {
+      "headline": "Citroen revives the 2CV for an electric age",
+      "source": "Hacker News",
+      "canonicalUrl": "https://www.bbc.com/news/articles/c620r33plgppo",
+      "publicationDate": "2026-10-12T12:09:09.000Z",
+      "category": "Technology",
+      "tags": [],
+      "shortDescription": "Comments",
+      "fullText": "Comments",
+      "isRead": false,
+      "isSaved": false,
+      "isSample": false,
+      "id": "d071f870-6a18-413f-b1d8-734741f87853",
+      "createdAt": "2026-10-13T06:46:09.339Z",
+      "updatedAt": "2026-10-13T06:46:09.339Z"
+    },
+    {
+      "headline": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
+      "source": "Hacker News",
+      "canonicalUrl": "https://news.ycombinator.com/item?id=50059096",
+      "publicationDate": "2026-10-12T16:46:34.000Z",
+      "category": "Technology",
+      "tags": [],
+      "shortDescription": "Comments",
+      "fullText": "Comments",
+      "isRead": false,
+      "isSaved": false,
+      "isSample": false,
+      "id": "eab137cc-c18e-465a-ae4f-5a40fa9fdf47",
+      "createdAt": "2026-10-13T06:46:09.339Z",
+      "updatedAt": "2026-10-13T06:46:09.339Z"
+    },
+    {
+      "headline": "AI is a tool and using it well takes skill",
+      "source": "Hacker News",
+      "canonicalUrl": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
+      "publicationDate": "2026-10-12T21:40:18.000Z",
+      "category": "Technology",
+      "tags": [],
+      "shortDescription": "Comments",
+      "fullText": "Comments",
+      "isRead": false,
+      "isSaved": false,
+      "isSample": false,
+      "id": "1e23189a-7a63-4afb-bb2f-b53be0be4bf2",
+      "createdAt": "2026-10-13T06:46:09.339Z",
+      "updatedAt": "2026-10-13T06:46:09.339Z"
+    },
+    {
+      "headline": "Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver",
+      "source": "Hacker News",
+      "canonicalUrl": "https://github.com/h0m3us3r/w1700k-sdr",
+      "publicationDate": "2026-10-12T12:41:58.000Z",
+      "category": "Technology",
+      "tags": [],
+      "shortDescription": "Comments",
+      "fullText": "Comments",
+      "isRead": false,
+      "isSaved": false,
+      "isSample": false,
+      "id": "cf65d50d-e56a-4a8f-b20e-547cee3f6c43",
+      "createdAt": "2026-10-13T06:46:09.338Z",
+      "updatedAt": "2026-10-13T06:46:09.338Z"
+    },
+    {
+      "headline": "Auto Research: Integer multiplication below n log n",
+      "source": "Hacker News",
+      "canonicalUrl": "https://app.getsupers.com/auto-research",
+      "publicationDate": "2026-10-11T20:48:30.000Z",
+      "category": "Technology",
+      "tags": [],
+      "shortDescription": "Comments",
+      "fullText": "Comments",
+      "isRead": false,
+      "isSaved": false,
+      "isSample": false,
+      "id": "8037cb45-fba5-4851-9f66-3859963d510a",
+      "createdAt": "2026-10-13T06:46:09.338Z",
+      "updatedAt": "2026-10-13T06:46:09.338Z"
+    },
+    {
+      "headline": "Making big downloads resumable in Firefox",
+      "source": "Hacker News",
+      "canonicalUrl": "https://lunarwatcher.codeberg.page/til/firefox/resumable-big-downloads.html",
+      "publicationDate": "2026-10-12T19:36:02.000Z",
+      "category": "Technology",
+      "tags": [],
+      "shortDescription": "Comments",
+      "fullText": "Comments",
+      "isRead": false,
+      "isSaved": false,
+      "isSample": false,
+      "id": "ae6bab69-8552-42bc-b991-936fa23c7ec1",
+      "createdAt": "2026-10-13T06:46:09.337Z",
+      "updatedAt": "2026-10-13T06:46:09.337Z"
+    },
+    {
+      "headline": "The Dock on Mac, from OS 10 to macOS 27",
+      "source": "Hacker News",
+      "canonicalUrl": "https://blog.jim-nielsen.com/2026/macos-dock-icons-over-time/",
+      "publicationDate": "2026-10-13T02:09:19.000Z",
+      "category": "Technology",
+      "tags": [],
+      "shortDescription": "Comments",
+      "fullText": "Comments",
+      "isRead": false,
+      "isSaved": false,
+      "isSample": false,
+      "id": "ceff7315-58d9-435f-b128-2283f2dd7557",
+      "createdAt": "2026-10-13T06:46:09.337Z",
+      "updatedAt": "2026-10-13T06:46:09.337Z"
+    },
+    {
+      "headline": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
+      "source": "Hacker News",
+      "canonicalUrl": "https://github.com/prabanta-dev/janas",
+      "publicationDate": "2026-10-12T22:05:43.000Z",
+      "category": "Technology",
+      "tags": [],
+      "shortDescription": "Comments",
+      "fullText": "Comments",
+      "isRead": false,
+      "isSaved": false,
+      "isSample": false,
+      "id": "e81dfc2d-ac77-40b7-a8ab-6b23a74b82df",
+      "createdAt": "2026-10-13T06:46:09.337Z",
+      "updatedAt": "2026-10-13T06:46:09.337Z"
+    },
+    {
+      "headline": "Who is vfmaddrnd231pd?",
+      "source": "Hacker News",
+      "canonicalUrl": "https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/",
+      "publicationDate": "2026-10-12T21:12:43.000Z",
+      "category": "Technology",
+      "tags": [],
+      "shortDescription": "Comments",
+      "fullText": "Comments",
+      "isRead": false,
+      "isSaved": false,
+      "isSample": false,
+      "id": "1774a399-27e0-456c-8b09-968b9e6e3d08",
+      "createdAt": "2026-10-13T06:46:09.335Z",
+      "updatedAt": "2026-10-13T06:46:09.335Z"
+    },
+    {
+      "headline": "Threat of AI share crash puts world financial stability at risk, says IMF",
+      "source": "Hacker News",
+      "canonicalUrl": "https://www.theguardian.com/business/2026/oct/13/ai-share-crash-risk-global-imf-debt-corrowing-cyber-attacks",
+      "publicationDate": "2026-10-13T05:57:32.000Z",
+      "category": "Technology",
+      "tags": [],
+      "shortDescription": "Comments",
+      "fullText": "Comments",
+      "isRead": false,
+      "isSaved": false,
+      "isSample": false,
+      "id": "27ca58f5-9a72-47ab-ae09-fd49fecea469",
+      "createdAt": "2026-10-13T06:46:09.335Z",
+      "updatedAt": "2026-10-13T06:46:09.335Z"
+    },
+    {
+      "headline": "Hackers activate automatic defrosting in supermarket fridges across Europe",
+      "source": "Hacker News",
+      "canonicalUrl": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident",
+      "publicationDate": "2026-10-12T12:16:42.000Z",
+      "category": "Technology",
+      "tags": [],
+      "shortDescription": "Comments",
+      "fullText": "Comments",
+      "isRead": false,
+      "isSaved": false,
+      "isSample": false,
+      "id": "d90a5d84-8122-467a-8bd3-a1b89c6b2468",
+      "createdAt": "2026-10-13T06:46:09.335Z",
+      "updatedAt": "2026-10-13T06:46:09.335Z"
+    },
+    {
+      "headline": "A Modern Web App in C",
+      "source": "Hacker News",
+      "canonicalUrl": "https://prophitt.me/writing/a-modern-web-app-in-c",
+      "publicationDate": "2026-10-12T16:13:10.000Z",
+      "category": "Technology",
+      "tags": [],
+      "shortDescription": "Comments",
+      "fullText": "Comments",
+      "isRead": false,
+      "isSaved": false,
+      "isSample": false,
+      "id": "10b345dd-c924-4b11-8617-90dd583d5401",
+      "createdAt": "2026-10-13T06:46:09.334Z",
+      "updatedAt": "2026-10-13T06:46:09.334Z"
+    },
+    {
+      "headline": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
+      "source": "Hacker News",
+      "canonicalUrl": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
+      "publicationDate": "2026-10-12T21:35:35.000Z",
+      "category": "Technology",
+      "tags": [],
+      "shortDescription": "Comments",
+      "fullText": "Comments",
+      "isRead": false,
+      "isSaved": false,
+      "isSample": false,
+      "id": "046ab026-275a-4e59-ab64-1281da62fd0e",
+      "createdAt": "2026-10-13T06:46:09.334Z",
+      "updatedAt": "2026-10-13T06:46:09.334Z"
+    },
+    {
+      "headline": "GLM-Legal",
+      "source": "Hacker News",
+      "canonicalUrl": "https://z.ai/blog/glm-legal",
+      "publicationDate": "2026-10-12T16:11:45.000Z",
+      "category": "Technology",
+      "tags": [],
+      "shortDescription": "Comments",
+      "fullText": "Comments",
+      "isRead": false,
+      "isSaved": false,
+      "isSample": false,
+      "id": "9df63ffa-2b14-470d-b3e9-28d643392a56",
+      "createdAt": "2026-10-13T06:46:09.333Z",
+      "updatedAt": "2026-10-13T06:46:09.333Z"
+    },
+    {
+      "headline": "The baffling intelligence of a single cell (2024)",
+      "source": "Hacker News",
+      "canonicalUrl": "https://jsomers.net/e-coli-chemotaxis/",
+      "publicationDate": "2026-10-11T11:02:30.000Z",
+      "category": "Technology",
+      "tags": [],
+      "shortDescription": "Comments",
+      "fullText": "Comments",
+      "isRead": false,
+      "isSaved": false,
+      "isSample": false,
+      "id": "5d622f0c-70f8-45ca-8e51-cdee2f9d20a0",
+      "createdAt": "2026-10-13T06:46:09.333Z",
+      "updatedAt": "2026-10-13T06:46:09.333Z"
+    },
+    {
+      "headline": "AI Models Can Provably Hide Arbitrary Capabilities",
+      "source": "Hacker News",
+      "canonicalUrl": "https://arxiv.org/abs/2610.13928",
+      "publicationDate": "2026-10-13T02:07:08.000Z",
+      "category": "Technology",
+      "tags": [],
+      "shortDescription": "Comments",
+      "fullText": "Comments",
+      "isRead": false,
+      "isSaved": false,
+      "isSample": false,
+      "id": "fea76e1b-0634-4afc-9994-2ef38a50625b",
+      "createdAt": "2026-10-13T06:46:09.332Z",
+      "updatedAt": "2026-10-13T06:46:09.332Z"
+    },
+    {
+      "id": "art-sample-01",
+      "headline": "Next-Generation Reasoning Models Slash Inference Latency for Enterprise Workflows",
+      "source": "MIT Technology Review",
+      "author": "Elena Vance",
+      "canonicalUrl": "https://technologyreview.com/2026/10/reasoning-models-inference-latency-breakthrough",
+      "publicationDate": "2026-10-12T14:30:00.000Z",
+      "category": "AI & Data",
+      "tags": [
+        "AI Models",
+        "Inference",
+        "Enterprise Tech",
+        "Reasoning"
+      ],
+      "shortDescription": "Breakthrough algorithmic distillation techniques have reduced cognitive reasoning latency by 64% while maintaining state-of-the-art benchmarks on code and formal verification tasks.",
+      "fullText": "Researchers and engineering labs have published results showcasing a novel architectural pipeline for reasoning models. By integrating dynamic speculative drafting with multi-turn self-correction verification during single-pass decoding, teams can deploy deep-thinking agents at a fraction of traditional compute costs. Enterprise adopters in financial risk modeling and automated software verification report a dramatic reduction in wall-clock time for complex queries. The findings suggest that high-capacity reasoning capabilities will soon be viable for real-time customer and developer interfaces without requiring clustered hardware acceleration.",
+      "isRead": false,
+      "isSaved": true,
+      "isSample": true,
+      "createdAt": "2026-10-12T15:00:00.000Z",
+      "updatedAt": "2026-10-12T15:00:00.000Z"
+    },
+    {
+      "id": "art-sample-02",
+      "headline": "Global Grid Operators Accelerate Multi-Gigawatt Solid-State Battery Deployment",
+      "source": "Clean Energy Dispatch",
+      "author": "Marcus Lindqvist",
+      "canonicalUrl": "https://cleanenergydispatch.org/2026/grid-scale-solid-state-battery-deployments",
+      "publicationDate": "2026-10-11T18:15:00.000Z",
+      "category": "Clean Energy & Climate",
+      "tags": [
+        "Energy Storage",
+        "Batteries",
+        "Renewable Grid",
+        "Infrastructure"
+      ],
+      "shortDescription": "Utility-scale pilot installations in three continents have demonstrated 4x energy density over lithium-ion with near-zero thermal runaway degradation over 10,000 continuous discharge cycles.",
+      "fullText": "Transmission operators in Northern Europe, California, and South Australia have inaugurated the largest utility-scale solid-state storage facilities to date. The deployments utilize non-flammable ceramic electrolytes capable of operating across extreme temperature variations without external liquid chillers. Early telemetry validates high round-trip efficiency (94%) during rapid peak-shaving events, addressing long-standing intermittency challenges for offshore wind and large-scale solar installations.",
+      "isRead": false,
+      "isSaved": false,
+      "isSample": true,
+      "createdAt": "2026-10-11T19:00:00.000Z",
+      "updatedAt": "2026-10-11T19:00:00.000Z"
+    },
+    {
+      "id": "art-sample-03",
+      "headline": "SaaS Multi-Tenant Cloud Migration Wave Prioritizes Zero-Trust Isolation Architecture",
+      "source": "Cloud Architecture Quarterly",
+      "author": "Priya Sharma",
+      "canonicalUrl": "https://cloudarchitect.io/articles/2026/zero-trust-multi-tenant-architecture",
+      "publicationDate": "2026-10-10T11:00:00.000Z",
+      "category": "Technology",
+      "tags": [
+        "Cybersecurity",
+        "Cloud Computing",
+        "Zero Trust",
+        "DevOps"
+      ],
+      "shortDescription": "Stricter international sovereignty regulations are driving software vendors to replace shared database pools with hardware-isolated micro-tenancy and verifiable cryptographic audit trails.",
+      "fullText": "Enterprises across healthcare, banking, and government sectors are mandating verifiable tenant isolation before renewing vendor contracts. In response, infrastructure providers are deploying per-tenant micro-VMs with cryptographically sealed memory enclaves. Software architects note that while cold-start latencies initially posed challenges, modern memory-snapshotting runtimes have driven provisioning down to milliseconds, making dedicated tenant isolation cost-effective even for mid-market SaaS offerings.",
+      "isRead": true,
+      "isSaved": true,
+      "isSample": true,
+      "createdAt": "2026-10-10T12:00:00.000Z",
+      "updatedAt": "2026-10-10T12:00:00.000Z"
+    },
+    {
+      "id": "art-sample-04",
+      "headline": "CRISPR-Derived In Vivo Epigenetic Therapy Shows Complete Remission in Phase II Trials",
+      "source": "BioTech Industry Monitor",
+      "author": "Dr. Arthur Sterling",
+      "canonicalUrl": "https://biotechmonitor.net/clinical/in-vivo-epigenetic-editing-phase-2-results",
+      "publicationDate": "2026-10-09T09:45:00.000Z",
+      "category": "Healthcare & Biotech",
+      "tags": [
+        "Genomics",
+        "Biotech",
+        "Clinical Trials",
+        "Precision Medicine"
+      ],
+      "shortDescription": "Targeted transcriptional silencing without double-strand DNA breaks demonstrates sustained biomarker normalization across 88 patients with severe congenital lipid disorders.",
+      "fullText": "Biopharmaceutical consortiums published landmark clinical results demonstrating the viability of epigenetic editing delivered via lipid nanoparticles. Unlike traditional gene-cutting tools that risk off-target chromosomal translocations, this therapy utilizes dead-Cas9 fused to methyltransferase complexes to silence hyperactive disease-causing alleles. Long-term follow-up confirms stable gene silencing over 18 months following a single intravenous infusion.",
+      "isRead": false,
+      "isSaved": false,
+      "isSample": true,
+      "createdAt": "2026-10-09T10:30:00.000Z",
+      "updatedAt": "2026-10-09T10:30:00.000Z"
+    },
+    {
+      "id": "art-sample-05",
+      "headline": "Central Banks Harmonize Cross-Border Real-Time Settlement Rails with ISO 20022 Protocols",
+      "source": "Financial Intelligence Review",
+      "author": "Chen Wei & Sofia Al-Mansoor",
+      "canonicalUrl": "https://fintechintelligence.com/2026/cross-border-real-time-settlement-interoperability",
+      "publicationDate": "2026-10-08T16:20:00.000Z",
+      "category": "Fintech & Banking",
+      "tags": [
+        "Fintech",
+        "Central Banks",
+        "Payments",
+        "Regulation"
+      ],
+      "shortDescription": "A coalition of 14 central banks has linked domestic instant payment networks, reducing multi-day correspondent banking settlement fees by 78% for international B2B commerce.",
+      "fullText": "The Project Nexus initiative has entered production between participating jurisdictions across Southeast Asia, the UK, and the Eurosystem. By standardizing message structures under ISO 20022 and utilizing automated FX auction liquidity pools, transactions clear and settle irrevocably in under 45 seconds. Commercial exporters cite massive working capital improvements as trapped foreign exchange reserves can now be reallocated in real time.",
+      "isRead": true,
+      "isSaved": false,
+      "isSample": true,
+      "createdAt": "2026-10-08T17:00:00.000Z",
+      "updatedAt": "2026-10-08T17:00:00.000Z"
+    },
+    {
+      "id": "art-sample-06",
+      "headline": "Adaptive Cognitive Tutoring Systems Bridge STEM Achievement Gaps in Multi-District Study",
+      "source": "EdTech Horizons",
+      "author": "Rachel Morales",
+      "canonicalUrl": "https://edtechhorizons.edu/reports/2026/adaptive-cognitive-tutoring-stem-results",
+      "publicationDate": "2026-10-07T13:00:00.000Z",
+      "category": "Education & Workforce",
+      "tags": [
+        "EdTech",
+        "Education",
+        "STEM",
+        "AI Tutoring"
+      ],
+      "shortDescription": "A two-year randomized controlled trial spanning 45,000 middle school students found individualized pacing and concept-mapping led to a 1.2 standard deviation gain in mathematical mastery.",
+      "fullText": "The Department of Education and educational psychologists have published the outcome of a nationwide pilot evaluating multimodal tutoring agents. Rather than providing direct answers, the systems diagnose root misconceptions in algebraic reasoning and scaffold conversational problem-solving steps. Teachers reported spending 40% more classroom time on high-impact collaborative labs and peer instruction, with the highest gains measured among historically under-resourced districts.",
+      "isRead": false,
+      "isSaved": true,
+      "isSample": true,
+      "createdAt": "2026-10-07T14:00:00.000Z",
+      "updatedAt": "2026-10-07T14:00:00.000Z"
+    },
+    {
+      "id": "art-sample-07",
+      "headline": "Venture Capital Refocuses on Deep Industrial Automation and Defense Tech Hardware",
+      "source": "Venture Pulse Today",
+      "author": "Gabriel Stone",
+      "canonicalUrl": "https://venturepulse.co/insights/2026/q3-funding-shift-industrial-automation-hardware",
+      "publicationDate": "2026-10-06T19:40:00.000Z",
+      "category": "Business & Markets",
+      "tags": [
+        "Venture Capital",
+        "Startups",
+        "Manufacturing",
+        "Funding"
+      ],
+      "shortDescription": "Quarterly funding tallies reveal a 55% surge in seed and Series A rounds for robotics and precision manufacturing, contrasting with a plateau in generic SaaS software valuations.",
+      "fullText": "Top-tier venture firms have deployed record capital into foundational robotics, dual-use defense tech, and domestic semiconductor tooling. Institutional LPs are demanding tangible defensive moats and physical supply chain integration over commodity consumer software. Startups building autonomous factory retrofits and specialized automated inspection platforms closed several oversubscribed mega-rounds this quarter.",
+      "isRead": false,
+      "isSaved": false,
+      "isSample": true,
+      "createdAt": "2026-10-06T20:00:00.000Z",
+      "updatedAt": "2026-10-06T20:00:00.000Z"
+    }
+  ],
+  "digests": [
+    {
+      "id": "9821cb50-ddf5-4ca8-8a8b-a6147c2b7a78",
+      "title": "Executive Intelligence Digest: Breakthroughs in Enterprise AI Reasoning and Grid-Scale Solid-State Storage",
+      "dateRangeLabel": "All Recorded Time",
+      "lengthType": "brief",
+      "overview": "Recent technological milestones highlight major efficiency gains across enterprise artificial intelligence and renewable power infrastructure. Advances in algorithmic distillation have reduced reasoning latency by 64%, enabling real-time deep-thinking agents at lower compute costs. Simultaneously, utility-scale deployments of solid-state batteries across three continents demonstrate 4x energy density and 94% round-trip efficiency, substantially resolving grid intermittency challenges for wind and solar.",
+      "keyDevelopments": [
+        {
+          "title": "Algorithmic Distillation Slashes AI Reasoning Latency by 64%",
+          "summary": "A novel architectural pipeline combining dynamic speculative drafting with multi-turn self-correction verification during single-pass decoding reduced cognitive reasoning latency by 64% while maintaining state-of-the-art benchmarks on code and formal verification tasks.",
+          "impactLevel": "High",
+          "sourceArticleIds": [
+            "art-sample-01"
+          ]
+        },
+        {
+          "title": "Utility-Scale Solid-State Battery Installations Deployed Across Three Continents",
+          "summary": "Grid transmission operators across Northern Europe, California, and South Australia launched multi-gigawatt solid-state storage pilots featuring ceramic electrolytes that deliver 4x energy density over lithium-ion, 94% round-trip efficiency, and near-zero thermal runaway degradation over 10,000 cycles without liquid chillers.",
+          "impactLevel": "High",
+          "sourceArticleIds": [
+            "art-sample-02"
+          ]
+        }
+      ],
+      "takeaways": [
+        {
+          "point": "Complex reasoning models are becoming operationally viable for real-time workflows.",
+          "significance": "Organizations in financial modeling and automated software verification can now deploy deep-thinking agents without requiring clustered hardware acceleration, lowering operational compute expenditure.",
+          "sourceArticleIds": [
+            "art-sample-01"
+          ]
+        },
+        {
+          "point": "Solid-state battery chemistry reaches utility-scale viability for long-duration grid stabilization.",
+          "significance": "Demonstrated operational durability and non-flammable thermal stability enable safer, higher-density storage for intermittent offshore wind and utility-scale solar generation.",
+          "sourceArticleIds": [
+            "art-sample-02"
+          ]
+        }
+      ],
+      "emergingThemes": [
+        {
+          "theme": "Efficiency-Driven Decoupling from Resource Constraints",
+          "description": "Both computing infrastructure and energy storage are advancing via architectural and material efficiencies that minimize hardware and cooling overhead.",
+          "prevalence": "Cross-sector trend across AI and Clean Energy"
+        },
+        {
+          "theme": "Operational Transition from Experimental Pilots to Commercial Deployment",
+          "description": "Technologies previously constrained by cost or hardware limits—such as high-latency reasoning models and solid-state cells—are entering live enterprise and utility-scale environments.",
+          "prevalence": "Observed in both primary source domains"
+        }
+      ],
+      "potentialImplications": [
+        {
+          "sectorOrDomain": "Enterprise Software & Financial Services",
+          "implication": "Faster reasoning pipelines will facilitate real-time automated verification, risk modeling, and interactive customer systems without prohibitive inference infrastructure costs.",
+          "timeframe": "Near-term (1-2 years)"
+        },
+        {
+          "sectorOrDomain": "Power Utilities & Renewable Generation",
+          "implication": "High-density, chiller-free solid-state grid storage will enhance transmission capacity and mitigate renewable power curtailment across volatile climate regions.",
+          "timeframe": "Medium-term (2-5 years)"
+        }
+      ],
+      "referencedArticles": [
+        {
+          "articleId": "art-sample-01",
+          "headline": "Next-Generation Reasoning Models Slash Inference Latency for Enterprise Workflows",
+          "source": "MIT Technology Review",
+          "citationRole": "Source data on architectural distillation techniques, 64% latency reduction, and enterprise computational efficiency in AI reasoning."
+        },
+        {
+          "articleId": "art-sample-02",
+          "headline": "Global Grid Operators Accelerate Multi-Gigawatt Solid-State Battery Deployment",
+          "source": "Clean Energy Dispatch",
+          "citationRole": "Source data on multi-gigawatt solid-state battery deployments, 4x energy density, 94% efficiency, and grid stabilization."
+        }
+      ],
+      "sourceArticleIds": [
+        "art-sample-01",
+        "art-sample-02"
+      ],
+      "selectedCategories": [
+        "AI & Data",
+        "Clean Energy & Climate"
+      ],
+      "aiModelName": "gemini-3.8-flash",
+      "createdAt": "2026-10-13T06:46:00.150Z"
+    },
+    {
+      "id": "2e84ee9b-b1bc-466b-8823-d02432bb709e",
+      "title": "Executive Intelligence Digest: AI & Data, Clean Energy & Climate, Technology",
+      "dateRangeLabel": "All Recorded Time",
+      "lengthType": "brief",
+      "overview": "This briefing synthesizes 7 verified news reports across 7 sector(s) (AI & Data, Clean Energy & Climate, Technology, Healthcare & Biotech, Fintech & Banking, Education & Workforce, Business & Markets) from 7 primary source(s). Coverage spans key breakthroughs, commercial strategies, and regulatory transitions recorded for All Recorded Time. [Note: Gemini Service Error ({\"error\":{\"code\":503,\"message\":\"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\"status\":\"UNAVAILABLE\"}}). Switched to offline analyzer.]",
+      "keyDevelopments": [
+        {
+          "title": "Next-Generation Reasoning Models Slash Inference Latency for Enterprise Workflows",
+          "summary": "Breakthrough algorithmic distillation techniques have reduced cognitive reasoning latency by 64% while maintaining state-of-the-art benchmarks on code and formal verification tasks.",
+          "impactLevel": "High",
+          "sourceArticleIds": [
+            "art-sample-01"
+          ]
+        },
+        {
+          "title": "Global Grid Operators Accelerate Multi-Gigawatt Solid-State Battery Deployment",
+          "summary": "Utility-scale pilot installations in three continents have demonstrated 4x energy density over lithium-ion with near-zero thermal runaway degradation over 10,000 continuous discharge cycles.",
+          "impactLevel": "Medium",
+          "sourceArticleIds": [
+            "art-sample-02"
+          ]
+        },
+        {
+          "title": "SaaS Multi-Tenant Cloud Migration Wave Prioritizes Zero-Trust Isolation Architecture",
+          "summary": "Stricter international sovereignty regulations are driving software vendors to replace shared database pools with hardware-isolated micro-tenancy and verifiable cryptographic audit trails.",
+          "impactLevel": "Medium",
+          "sourceArticleIds": [
+            "art-sample-03"
+          ]
+        },
+        {
+          "title": "CRISPR-Derived In Vivo Epigenetic Therapy Shows Complete Remission in Phase II Trials",
+          "summary": "Targeted transcriptional silencing without double-strand DNA breaks demonstrates sustained biomarker normalization across 88 patients with severe congenital lipid disorders.",
+          "impactLevel": "Low",
+          "sourceArticleIds": [
+            "art-sample-04"
+          ]
+        },
+        {
+          "title": "Central Banks Harmonize Cross-Border Real-Time Settlement Rails with ISO 20022 Protocols",
+          "summary": "A coalition of 14 central banks has linked domestic instant payment networks, reducing multi-day correspondent banking settlement fees by 78% for international B2B commerce.",
+          "impactLevel": "Low",
+          "sourceArticleIds": [
+            "art-sample-05"
+          ]
+        },
+        {
+          "title": "Adaptive Cognitive Tutoring Systems Bridge STEM Achievement Gaps in Multi-District Study",
+          "summary": "A two-year randomized controlled trial spanning 45,000 middle school students found individualized pacing and concept-mapping led to a 1.2 standard deviation gain in mathematical mastery.",
+          "impactLevel": "Low",
+          "sourceArticleIds": [
+            "art-sample-06"
+          ]
+        }
+      ],
+      "takeaways": [
+        {
+          "point": "Active cross-sector momentum detected across AI & Data and Clean Energy & Climate.",
+          "significance": "Organizations are prioritizing scalable execution and technological adaptation based on recent dispatches from MIT Technology Review, Clean Energy Dispatch, Cloud Architecture Quarterly.",
+          "sourceArticleIds": [
+            "art-sample-01",
+            "art-sample-02"
+          ]
+        },
+        {
+          "point": "Strategic investments and innovation cycles continue to accelerate.",
+          "significance": "Recent coverage emphasizes that market leaders are repositioning resources towards AI tooling, resilient operations, and sustainable infrastructure.",
+          "sourceArticleIds": [
+            "art-sample-02",
+            "art-sample-03"
+          ]
+        }
+      ],
+      "emergingThemes": [
+        {
+          "theme": "Efficiency & Autonomous Systems",
+          "description": "Multiple reports highlight shifting budgets toward automation, AI-driven tooling, and rapid productization.",
+          "prevalence": "High across technology and business sectors"
+        },
+        {
+          "theme": "Regulatory & Governance Scrutiny",
+          "description": "Growing focus on transparency, verifiable data pipelines, and compliance across global jurisdictions.",
+          "prevalence": "Moderate to high in corporate briefings"
+        }
+      ],
+      "potentialImplications": [
+        {
+          "sectorOrDomain": "AI & Data",
+          "implication": "Short-term consolidation of workflows around vetted platforms, driving improved operational efficiency.",
+          "timeframe": "Next 3-6 months"
+        },
+        {
+          "sectorOrDomain": "Clean Energy & Climate",
+          "implication": "Competitive pressure to synthesize market signals faster and reduce research overhead.",
+          "timeframe": "Immediate to 12 months"
+        }
+      ],
+      "referencedArticles": [
+        {
+          "articleId": "art-sample-01",
+          "headline": "Next-Generation Reasoning Models Slash Inference Latency for Enterprise Workflows",
+          "source": "MIT Technology Review",
+          "citationRole": "Primary evidence & analysis base"
+        },
+        {
+          "articleId": "art-sample-02",
+          "headline": "Global Grid Operators Accelerate Multi-Gigawatt Solid-State Battery Deployment",
+          "source": "Clean Energy Dispatch",
+          "citationRole": "Primary evidence & analysis base"
+        },
+        {
+          "articleId": "art-sample-03",
+          "headline": "SaaS Multi-Tenant Cloud Migration Wave Prioritizes Zero-Trust Isolation Architecture",
+          "source": "Cloud Architecture Quarterly",
+          "citationRole": "Primary evidence & analysis base"
+        },
+        {
+          "articleId": "art-sample-04",
+          "headline": "CRISPR-Derived In Vivo Epigenetic Therapy Shows Complete Remission in Phase II Trials",
+          "source": "BioTech Industry Monitor",
+          "citationRole": "Primary evidence & analysis base"
+        },
+        {
+          "articleId": "art-sample-05",
+          "headline": "Central Banks Harmonize Cross-Border Real-Time Settlement Rails with ISO 20022 Protocols",
+          "source": "Financial Intelligence Review",
+          "citationRole": "Primary evidence & analysis base"
+        },
+        {
+          "articleId": "art-sample-06",
+          "headline": "Adaptive Cognitive Tutoring Systems Bridge STEM Achievement Gaps in Multi-District Study",
+          "source": "EdTech Horizons",
+          "citationRole": "Primary evidence & analysis base"
+        },
+        {
+          "articleId": "art-sample-07",
+          "headline": "Venture Capital Refocuses on Deep Industrial Automation and Defense Tech Hardware",
+          "source": "Venture Pulse Today",
+          "citationRole": "Primary evidence & analysis base"
+        }
+      ],
+      "sourceArticleIds": [
+        "art-sample-01",
+        "art-sample-02",
+        "art-sample-03",
+        "art-sample-04",
+        "art-sample-05",
+        "art-sample-06",
+        "art-sample-07"
+      ],
+      "selectedCategories": [
+        "AI & Data",
+        "Clean Energy & Climate",
+        "Technology",
+        "Healthcare & Biotech",
+        "Fintech & Banking",
+        "Education & Workforce",
+        "Business & Markets"
+      ],
+      "aiModelName": "Rule-Based Analytical Synthesizer (Offline Mode)",
+      "createdAt": "2026-10-13T06:45:41.746Z"
+    }
+  ],
+  "categories": [
+    {
+      "id": "cat-tech",
+      "name": "Technology",
+      "slug": "technology",
+      "description": "Software engineering, cloud infrastructure, hardware, and mobile ecosystems",
+      "colorHex": "#0284c7",
+      "isDefault": true
+    },
+    {
+      "id": "cat-ai",
+      "name": "AI & Data",
+      "slug": "ai-data",
+      "description": "Generative AI, foundation models, machine learning, robotics, and agents",
+      "colorHex": "#8b5cf6",
+      "isDefault": true
+    },
+    {
+      "id": "cat-biz",
+      "name": "Business & Markets",
+      "slug": "business",
+      "description": "Venture funding, macroeconomic shifts, M&A, startups, and enterprise growth",
+      "colorHex": "#10b981",
+      "isDefault": true
+    },
+    {
+      "id": "cat-health",
+      "name": "Healthcare & Biotech",
+      "slug": "healthcare",
+      "description": "Precision medicine, genomics, clinical trials, and healthcare technology",
+      "colorHex": "#ec4899",
+      "isDefault": true
+    },
+    {
+      "id": "cat-energy",
+      "name": "Clean Energy & Climate",
+      "slug": "energy",
+      "description": "Renewable power grids, battery storage, EV infrastructure, and carbon capture",
+      "colorHex": "#14b8a6",
+      "isDefault": true
+    },
+    {
+      "id": "cat-fintech",
+      "name": "Fintech & Banking",
+      "slug": "fintech",
+      "description": "Payment rails, algorithmic trading, digital assets, and regtech",
+      "colorHex": "#f59e0b",
+      "isDefault": true
+    },
+    {
+      "id": "cat-edu",
+      "name": "Education & Workforce",
+      "slug": "education",
+      "description": "Higher education research, digital learning platforms, and skill development",
+      "colorHex": "#6366f1",
+      "isDefault": true
+    }
+  ],
+  "ingestionLogs": [
+    {
+      "providerType": "rss",
+      "sourceName": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com/rss",
+      "status": "success",
+      "itemsImported": 0,
+      "itemsSkipped": 30,
+      "id": "87def374-a4b6-4882-9401-246f7145d74d",
+      "createdAt": "2026-10-13T06:46:14.585Z"
+    },
+    {
+      "providerType": "rss",
+      "sourceName": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com/rss",
+      "status": "success",
+      "itemsImported": 30,
+      "itemsSkipped": 0,
+      "id": "a4e540c9-b034-428c-a2f1-21652dfe4d82",
+      "createdAt": "2026-10-13T06:46:09.346Z"
+    },
+    {
+      "id": "log-seed-01",
+      "providerType": "manual",
+      "sourceName": "Curated Intelligence Benchmark Dataset",
+      "status": "success",
+      "itemsImported": 7,
+      "itemsSkipped": 0,
+      "createdAt": "2026-10-13T06:45:19.001Z"
+    }
+  ],
+  "preferences": {
+    "selectedIndustries": [
+      "Technology",
+      "AI & Data",
+      "Business & Markets",
+      "Healthcare & Biotech",
+      "Clean Energy & Climate",
+      "Fintech & Banking",
+      "Education & Workforce"
+    ],
+    "digestFrequency": "weekly",
+    "digestLength": "comprehensive",
+    "autoMarkReadOnOpen": true
+  }
+}
